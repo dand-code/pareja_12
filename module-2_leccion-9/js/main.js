@@ -54,8 +54,6 @@ let numbersConcat = evenNumbers.concat(multNumbers);
 console.log(numbersConcat);
 
 
-
-
 //alternative:
 /*
 function extractNumbersMultipleOf(mult){
